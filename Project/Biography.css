@@ -22,4 +22,19 @@
       font-size: 15px;
       font-style: italic;
   }
-  
+  .modal-body{
+    background: #929191;
+}
+.modal-ul { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ; }
+.modal-ul li {padding:0px 0px 5px 0px;}
+.modal-ul li a{ color:rgb(15, 28, 218);}
+.modal-ul li a:hover{ color:#fff; text-decoration:none;}
+.modal-ul { float:left;}
+.modal-ul { padding-right:10px; }
+.modal-ul {margin:0px; list-style-type:none; padding:0px 220px;}
+.modal-ul li p { display:table; }
+.modal-ul li a:hover { text-decoration:none;}
+.modal-ul li i { margin-top:5px; color: blue;}
+.modal-ul {
+	white-space: nowrap;
+}
